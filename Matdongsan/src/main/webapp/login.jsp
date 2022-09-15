@@ -80,7 +80,7 @@
         </div>
        <br>
        
-        <input type="submit" class="btn" value="L O G I N" >
+        <input type="button" onClick="location.href='APT_search.jsp'" class="btn" value="L O G I N" />
       </form>
 
     <script src="js/bootstrap.bundle.min.js"></script>

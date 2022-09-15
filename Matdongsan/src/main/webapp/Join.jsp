@@ -93,7 +93,7 @@
 
 				<input name="JoinEmail" type="text" class="email" placeholder="이메일">
 			</div>
-			<br> <input type="submit" class="btn" value="J O I N">
+			<br> <input type="button" class="btn" value="J O I N" onClick="location.href='Confirm.jsp'"/>
 		</form>
 
 
